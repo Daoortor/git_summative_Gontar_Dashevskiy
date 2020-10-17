@@ -1,1 +1,1 @@
-print('My first git program')
+print('Я, Тимур Гонтарь, научился работать с git, но это не точно.')
